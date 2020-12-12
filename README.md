@@ -36,9 +36,3 @@ Currently focusing on building high-performance distributed systems and explorin
 - [Why I moved my blog to Cloudflare Pages](https://novabao.com/...)
 
 --- -->
-
-### 📈 GitHub Activity
-
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=uzqw&color=blueviolet&style=flat-square)
-
-Check out my contribution graph on my [GitHub Profile](https://github.com/uzqw) 📊
