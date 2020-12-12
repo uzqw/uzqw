@@ -37,9 +37,8 @@ Currently focusing on building high-performance distributed systems and explorin
 
 --- -->
 
-### 📈 GitHub Stats
+### 📈 GitHub Activity
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=uzqw&show_icons=true&theme=minimal&hide_border=true" alt="Zane's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzqw&layout=compact&theme=minimal&hide_border=true" alt="Top Langs" height="150" />
-</p>
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=uzqw&color=blueviolet&style=flat-square)
+
+Check out my contribution graph on my [GitHub Profile](https://github.com/uzqw) 📊
