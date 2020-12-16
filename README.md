@@ -1,18 +1,15 @@
 
 # Hi there, I'm Zane 👋
 
-[![Open to Remote Work](https://img.shields.io/badge/Available_For-Remote_Hire-success?style=for-the-badge&logo=linkedin)](mailto:i@novabao.com)
-[![Website](https://img.shields.io/badge/Blog-Novabao.com-black?style=for-the-badge&logo=hugo)](https://novabao.com)
+[![Open to Remote Work](https://img.shields.io/badge/Available_For-Remote_Hire-success?style=for-the-badge&logo=linkedin)](mailto:qinwangzeng@gmail.com)
 
 ### 👨‍💻 About Me
 
 I am a **Backend Engineer** specializing in **Go** and **Linux Internals**.
 Currently focusing on building high-performance distributed systems and exploring eBPF for observability.
 
-- 🔭 I’m currently working on: **[Redis-Go & Go-Scheduler-Visualizer]**
+- 🔭 I’m currently working on: **database**
 - 🌱 I’m currently learning: **Linux Kernel Memory Management & Rust**
-- 💬 Ask me about: **Go Concurrency Patterns, System Design, or why I love Vim.**
-- 📫 Reach me at: **i@novabao.com**
 
 ---
 
