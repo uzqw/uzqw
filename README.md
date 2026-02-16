@@ -6,8 +6,8 @@
 I am a **Backend Engineer** specializing in **Go** and **Linux Internals**.
 Currently focusing on building high-performance distributed systems and exploring eBPF for observability.
 
-- 🔭 I’m currently working on: **database**
-- 🌱 I’m currently learning: **Linux Kernel Memory Management & Rust**
+- 🔭 I’m currently working on: **Distributed Workflow Engine with Temporal**
+- 🌱 I’m currently learning: **Cloud-Native Observability & eBPF**
 
 ---
 
