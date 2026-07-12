@@ -31,22 +31,6 @@ If you want to try one, I recommend **utips** first. It has gone through more it
 
 ---
 
-### 📦 Current Projects
-
-- **utips**
-  - Open-source Markdown tool
-  - Docker one-command deployment
-  - Maintained since **2025-04**
-  - Used daily for notes, thoughts, and work logs
-
-- **ebook**
-  - Self-hosted PDF / EPUB reading tool
-  - Supports multi-device access
-  - Maintained since **2026-04**
-  - Used weekly
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="left">
