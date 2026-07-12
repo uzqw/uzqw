@@ -10,7 +10,7 @@
 - `utips`：一个开源 Markdown 工具，支持 Docker 一键部署。从 **2025 年 4 月** 持续维护至今，也是我现在**每天都在用**的工具，我用它记录自己的笔记、感想、工作日志。支持分类和检索，配置好后能自动加载天气、待办事项会自动同步谷歌发邮件提醒。
 - `ebook`：一个 self-hosted 的 PDF / EPUB 阅读工具，支持多端访问。从 **2026 年 4 月** 持续维护至今，我基本**每周都会用**。
 
-这两个项目还会继续有一些小更新，但不会特别频繁。它们本质上都是我给自己用的效率工具，目前功能已经比较完整，够用、顺手、稳定更重要。
+这两个项目还会继续有一些小更新。目前功能已经比较完整，够用、顺手、稳定更重要。
 
 我推荐 **utips**。它已经迭代得更成熟，工程化做得更好，日常使用体验也更顺手。
 
@@ -25,7 +25,7 @@ I’m currently maintaining just two projects, both built around self-hosted per
 - `utips`: an open-source Markdown tool with one-command Docker deployment. Maintained since **April 2025**, and it’s something I use **every day**. I use it to record notes, thoughts, and work logs. It supports categorization and search, and once configured it can auto-load weather and todos, with Google email reminders.
 - `ebook`: a self-hosted PDF / EPUB reading tool with multi-device access. Maintained since **April 2026**, and I use it **weekly**.
 
-These projects still get small updates, but not very frequently. They are personal tools first, and the feature set is already quite complete for my daily use.
+These projects still get small updates, but not very frequently. The feature set is already quite complete for the daily use.
 
 If you want to try one, I recommend **utips** first. It has gone through more iterations and feels much more polished in daily use.
 
