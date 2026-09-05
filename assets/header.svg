@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Zane — Backend engineer</title>
+  <desc id="desc">Storage and streaming. Experience in NAS / filesystems and trading systems. Self-hosted tools run daily.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#1C2936" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="accent" x1="0" y1="0" x2="960" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#70E1CF"/>
+      <stop offset="1" stop-color="#779CFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="240" rx="12" fill="#0D1117"/>
+  <rect x="1" y="1" width="958" height="238" rx="11" stroke="#293644"/>
+  <path d="M480 1H948Q959 1 959 12V228Q959 239 948 239H480Z" fill="url(#grid)"/>
+  <path d="M32 1H928" stroke="url(#accent)" stroke-width="2"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <text x="40" y="43" fill="#70E1CF" font-size="12" letter-spacing="2">UZQW / ENGINEERING</text>
+    <text x="40" y="116" fill="#F0F6FC" font-size="64" font-weight="700" letter-spacing="-3">Zane<tspan fill="#70E1CF">.</tspan></text>
+    <text x="42" y="151" fill="#D0D9E3" font-size="18">Backend engineer</text>
+    <text x="42" y="204" fill="#9DAEBF" font-size="12">STORAGE / STREAMING / SELF-HOSTED</text>
+    <rect x="570" y="51" width="350" height="138" rx="6" fill="#0D1117" stroke="#334353"/>
+    <path d="M570 85H920" stroke="#334353"/>
+    <circle cx="588" cy="68" r="3" fill="#70E1CF"/>
+    <text x="602" y="72" fill="#9DAEBF" font-size="11">ENGINEERING PROFILE</text>
+    <text x="590" y="112" fill="#9DAEBF" font-size="12">01 / FOCUS</text>
+    <text x="710" y="112" fill="#E6EDF3" font-size="12">Storage + streaming</text>
+    <text x="590" y="141" fill="#9DAEBF" font-size="12">02 / BASE</text>
+    <text x="710" y="141" fill="#E6EDF3" font-size="12">NAS + trading systems</text>
+    <text x="590" y="170" fill="#9DAEBF" font-size="12">03 / RUN</text>
+    <text x="710" y="170" fill="#70E1CF" font-size="12">On my own server</text>
+  </g>
+</svg>

@@ -1,34 +1,33 @@
+![Zane — Backend engineer. Storage, streaming, and self-hosted tools.](assets/header.svg)
 
-# Hi there, I'm Zane 👋
+[![Go](https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=70E1CF)](https://go.dev/)
+[![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=E6EDF3)](https://www.kernel.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-uzqw-0D1117?style=flat-square&logo=github&logoColor=E6EDF3&labelColor=202B38)](https://github.com/uzqw?tab=repositories)
 
-### 👨‍💻 中文介绍
+Backend engineer with **2 years on NAS / filesystems** and experience building **trading systems**. Currently focused on **storage and streaming**. The self-hosted tools below are what I run daily — not the main story.
 
-我是一个后端工程师，做过两年 NAS 开发，也做过交易系统相关工作。
+## 01 / Now
 
-我现在主要维护两个 self-hosted 的个人效率工具：
+- Learning **Apache Iggy** in public — persistence & connectors. PRs will land here when they exist.
+- Background: local disks, crash recovery, file semantics — the NAS years.
 
-- `utips`：一个开源 Markdown 工具，支持 Docker 一键部署。从 **2025 年 4 月** 持续维护至今，也是我现在**每天都在用**的工具，我用它记录自己的笔记、感想、工作日志。支持分类和检索，配置好后能自动加载天气、待办事项会自动同步谷歌发邮件提醒。
-- `ebook`：一个 self-hosted 的 PDF / EPUB 阅读工具，支持多端访问。从 **2026 年 4 月** 持续维护至今，我基本**每周都会用**。
+## 02 / I actually use
 
-这两个项目还会继续有一些小更新。目前功能已经比较完整，够用、顺手、稳定更重要。
+| Project | What it does | Deployment / access | In use | Maintained since |
+| :--- | :--- | :--- | :--- | :--- |
+| [**utips**](https://github.com/uzqw/utips) | Personal workspace — notes, todos, reminders. | Self-hosted · one-command Docker setup | **Daily** | Apr 2025 |
+| [**ebook**](https://github.com/uzqw/ebook) | Self-hosted PDF / EPUB reading across devices. | Self-hosted · multi-device access | **Weekly** | Apr 2026 |
 
-我推荐 **utips**。它已经迭代得更成熟，工程化做得更好，日常使用体验也更顺手。
+**Start with utips** — the more mature of the two, refined through daily use.
 
----
+## 03 / Experiments (not the headline)
 
-### 👨‍💻 About Me
+- [**vex**](https://github.com/uzqw/vex) — small in-memory vector store in Go (RESP, optional HNSW, snapshots).
+- [**vexlake**](https://github.com/uzqw/vexlake) — short-lived Go + Rust experiment (compute/storage split). Parked.
+- A few months around **DataFusion** — too mature to contribute meaningfully as an outsider.
 
-I’m a backend engineer with two years of NAS development experience, and I’ve also worked on trading systems.
+Agent runtimes (Maka, Pi, etc.) are daily drivers, not projects I'm trying to own.
 
-I’m currently maintaining just two projects, both built around self-hosted personal efficiency tools.
+## 04 / Activity
 
-- `utips`: an open-source Markdown tool with one-command Docker deployment. Maintained since **April 2025**, and it’s something I use **every day**. I use it to record notes, thoughts, and work logs. It supports categorization and search, and once configured it can auto-load weather and todos, with Google email reminders.
-- `ebook`: a self-hosted PDF / EPUB reading tool with multi-device access. Maintained since **April 2026**, and I use it **weekly**.
-
-These projects still get small updates, but not very frequently. The feature set is already quite complete for the daily use.
-
-If you want to try one, I recommend **utips** first. It has gone through more iterations and feels much more polished in daily use.
-
----
-
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=uzqw&color=blueviolet&style=flat-square)
+![GitHub contribution activity for uzqw](https://github-readme-activity-graph.vercel.app/graph?username=uzqw&bg_color=0d1117&color=9daebf&line=70e1cf&point=779cff&area=true&area_color=70e1cf&hide_border=true&hide_title=true&height=220)
