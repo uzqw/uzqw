@@ -30,4 +30,4 @@ Agent runtimes (Maka, Pi, etc.) are daily drivers, not projects I'm trying to ow
 
 ## 04 / Activity
 
-![GitHub contribution activity for uzqw](https://github-readme-activity-graph.vercel.app/graph?username=uzqw&bg_color=0d1117&color=9daebf&line=70e1cf&point=779cff&area=true&area_color=70e1cf&hide_border=true&hide_title=true&height=220)
+![GitHub contribution activity for uzqw](https://github-readme-streak-stats.herokuapp.com/?user=uzqw&background=0D1117&ring=70E1CF&fire=70E1CF&currStreakNum=F0F6FC&sideNums=9DAEBF&currStreakLabel=9DAEBF&sideLabels=9DAEBF&dates=9DAEBF&stroke=293644&hide_border=true&excludeDaysLabel=334353)
